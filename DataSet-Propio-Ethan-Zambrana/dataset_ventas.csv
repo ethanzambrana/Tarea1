@@ -1,0 +1,201 @@
+id_venta,fecha,producto,categoria,cantidad,precio_unitario,ciudad,metodo_pago,descuento,total
+1,2026-07-01,Laptop,Tecnología,1,650,Santa Cruz,Tarjeta,0,650.00
+2,2026-09-23,Escritorio,Muebles,4,210,La Paz,Efectivo,0,840.00
+3,2026-08-13,Memoria USB,Almacenamiento,2,12,Oruro,Efectivo,0.05,22.80
+4,2026-08-16,Monitor,Tecnología,2,190,El Alto,Transferencia,0.1,342.00
+5,2026-07-12,Disco SSD,Almacenamiento,2,78,El Alto,QR,0,156.00
+6,2026-09-11,Disco SSD,Almacenamiento,2,78,La Paz,Efectivo,0,156.00
+7,2026-04-22,Laptop,Tecnología,3,650,El Alto,Tarjeta,0,1950.00
+8,2026-04-08,Monitor,Tecnología,3,190,El Alto,Transferencia,0.1,513.00
+9,2026-02-15,Memoria USB,Almacenamiento,5,12,La Paz,Efectivo,0.1,54.00
+10,2026-03-05,Mouse,Accesorios,3,18,Oruro,Transferencia,0.15,45.90
+11,2026-02-18,Webcam,Accesorios,4,39,La Paz,QR,0,156.00
+12,2026-02-18,Silla,Muebles,3,125,Santa Cruz,Tarjeta,0,375.00
+13,2026-08-10,Mouse,Accesorios,2,18,Cochabamba,QR,0.1,32.40
+14,2026-05-29,Webcam,Accesorios,3,39,El Alto,Transferencia,0.15,99.45
+15,2026-01-26,Escritorio,Muebles,3,210,El Alto,Efectivo,0.15,535.50
+16,2026-03-06,Monitor,Tecnología,1,190,Santa Cruz,Transferencia,0.05,180.50
+17,2026-05-23,Teclado,Accesorios,4,32,Cochabamba,Transferencia,0.1,115.20
+18,2026-05-04,Memoria USB,Almacenamiento,4,12,Oruro,Transferencia,0.15,40.80
+19,2026-06-29,Escritorio,Muebles,4,210,Cochabamba,Tarjeta,0,840.00
+20,2026-08-02,Webcam,Accesorios,5,39,El Alto,Transferencia,0.15,165.75
+21,2026-09-24,Memoria USB,Almacenamiento,4,12,Cochabamba,Tarjeta,0.05,45.60
+22,2026-04-23,Silla,Muebles,5,125,Santa Cruz,Efectivo,0,625.00
+23,2026-09-27,Laptop,Tecnología,2,650,Santa Cruz,Tarjeta,0,1300.00
+24,2026-04-30,Audífonos,Accesorios,1,45,Santa Cruz,Efectivo,0.1,40.50
+25,2026-06-14,Escritorio,Muebles,5,210,El Alto,Efectivo,0,1050.00
+26,2026-05-12,Memoria USB,Almacenamiento,5,12,Santa Cruz,QR,0,60.00
+27,2026-02-24,Escritorio,Muebles,2,210,La Paz,Efectivo,0.05,399.00
+28,2026-02-04,Laptop,Tecnología,4,650,Santa Cruz,Efectivo,0,2600.00
+29,2026-09-08,Escritorio,Muebles,1,210,Cochabamba,Transferencia,0.15,178.50
+30,2026-09-02,Disco SSD,Almacenamiento,3,78,Cochabamba,Tarjeta,0.05,222.30
+31,2026-02-03,Escritorio,Muebles,5,210,Cochabamba,Efectivo,0,1050.00
+32,2026-07-28,Teclado,Accesorios,4,32,El Alto,Transferencia,0.1,115.20
+33,2026-01-25,Teclado,Accesorios,1,32,Santa Cruz,QR,0,32.00
+34,2026-04-28,Memoria USB,Almacenamiento,1,12,Santa Cruz,Efectivo,0.15,10.20
+35,2026-03-21,Webcam,Accesorios,4,39,Santa Cruz,Efectivo,0,156.00
+36,2026-08-12,Mouse,Accesorios,1,18,La Paz,Efectivo,0.15,15.30
+37,2026-08-31,Silla,Muebles,1,125,Santa Cruz,QR,0.05,118.75
+38,2026-06-11,Monitor,Tecnología,5,190,El Alto,Tarjeta,0.05,902.50
+39,2026-03-22,Mouse,Accesorios,1,18,Oruro,Transferencia,0.15,15.30
+40,2026-06-18,Audífonos,Accesorios,2,45,El Alto,QR,0.15,76.50
+41,2026-09-05,Laptop,Tecnología,2,650,Oruro,QR,0,1300.00
+42,2026-06-19,Escritorio,Muebles,1,210,Santa Cruz,Transferencia,0.05,199.50
+43,2026-04-18,Memoria USB,Almacenamiento,1,12,La Paz,QR,0,12.00
+44,2026-05-26,Webcam,Accesorios,4,39,Cochabamba,Transferencia,0,156.00
+45,2026-01-29,Disco SSD,Almacenamiento,1,78,Santa Cruz,Transferencia,0.1,70.20
+46,2026-03-19,Teclado,Accesorios,4,32,Santa Cruz,Tarjeta,0,128.00
+47,2026-05-16,Disco SSD,Almacenamiento,5,78,Santa Cruz,QR,0.1,351.00
+48,2026-09-12,Monitor,Tecnología,3,190,El Alto,Transferencia,0.15,484.50
+49,2026-07-03,Monitor,Tecnología,3,190,La Paz,Tarjeta,0,570.00
+50,2026-05-22,Disco SSD,Almacenamiento,2,78,El Alto,QR,0.15,132.60
+51,2026-04-18,Escritorio,Muebles,4,210,La Paz,Efectivo,0.1,756.00
+52,2026-09-19,Monitor,Tecnología,4,190,La Paz,Transferencia,0,760.00
+53,2026-02-20,Webcam,Accesorios,3,39,Oruro,Tarjeta,0.1,105.30
+54,2026-08-22,Disco SSD,Almacenamiento,1,78,La Paz,QR,0.1,70.20
+55,2026-04-09,Disco SSD,Almacenamiento,4,78,La Paz,QR,0.05,296.40
+56,2026-02-03,Monitor,Tecnología,1,190,El Alto,Efectivo,0,190.00
+57,2026-02-01,Silla,Muebles,4,125,La Paz,Transferencia,0,500.00
+58,2026-07-04,Mouse,Accesorios,5,18,Oruro,QR,0.05,85.50
+59,2026-01-08,Webcam,Accesorios,5,39,La Paz,Tarjeta,0,195.00
+60,2026-07-14,Monitor,Tecnología,1,190,El Alto,Efectivo,0.05,180.50
+61,2026-06-11,Monitor,Tecnología,3,190,Oruro,Transferencia,0.15,484.50
+62,2026-03-12,Escritorio,Muebles,2,210,La Paz,Efectivo,0,420.00
+63,2026-06-12,Teclado,Accesorios,1,32,Oruro,Efectivo,0.1,28.80
+64,2026-01-02,Memoria USB,Almacenamiento,4,12,Cochabamba,Transferencia,0,48.00
+65,2026-05-26,Memoria USB,Almacenamiento,1,12,Oruro,Efectivo,0.15,10.20
+66,2026-07-01,Memoria USB,Almacenamiento,5,12,Cochabamba,Transferencia,0,60.00
+67,2026-04-01,Escritorio,Muebles,3,210,La Paz,Efectivo,0.1,567.00
+68,2026-03-23,Mouse,Accesorios,1,18,Oruro,Transferencia,0,18.00
+69,2026-01-16,Laptop,Tecnología,4,650,Cochabamba,QR,0,2600.00
+70,2026-04-25,Memoria USB,Almacenamiento,2,12,La Paz,Efectivo,0.05,22.80
+71,2026-04-24,Mouse,Accesorios,2,18,Oruro,Efectivo,0.15,30.60
+72,2026-07-25,Disco SSD,Almacenamiento,2,78,Cochabamba,Efectivo,0,156.00
+73,2026-02-28,Escritorio,Muebles,1,210,Cochabamba,QR,0,210.00
+74,2026-01-03,Audífonos,Accesorios,3,45,El Alto,Transferencia,0.1,121.50
+75,2026-01-19,Webcam,Accesorios,3,39,Oruro,Tarjeta,0,117.00
+76,2026-01-12,Audífonos,Accesorios,5,45,Cochabamba,QR,0,225.00
+77,2026-01-10,Silla,Muebles,5,125,Cochabamba,Transferencia,0,625.00
+78,2026-02-23,Disco SSD,Almacenamiento,1,78,El Alto,Tarjeta,0.05,74.10
+79,2026-09-30,Teclado,Accesorios,4,32,La Paz,Transferencia,0,128.00
+80,2026-08-13,Disco SSD,Almacenamiento,5,78,Oruro,Tarjeta,0.15,331.50
+81,2026-08-31,Webcam,Accesorios,3,39,Santa Cruz,Transferencia,0,117.00
+82,2026-02-07,Silla,Muebles,3,125,La Paz,Transferencia,0.15,318.75
+83,2026-02-16,Memoria USB,Almacenamiento,4,12,Oruro,Tarjeta,0.15,40.80
+84,2026-01-04,Silla,Muebles,5,125,La Paz,Tarjeta,0,625.00
+85,2026-02-07,Webcam,Accesorios,5,39,Santa Cruz,Transferencia,0.1,175.50
+86,2026-03-28,Silla,Muebles,5,125,El Alto,Tarjeta,0,625.00
+87,2026-09-01,Silla,Muebles,5,125,Oruro,QR,0.05,593.75
+88,2026-08-31,Monitor,Tecnología,4,190,La Paz,Transferencia,0.05,722.00
+89,2026-02-10,Teclado,Accesorios,2,32,La Paz,Efectivo,0.1,57.60
+90,2026-03-25,Memoria USB,Almacenamiento,3,12,Oruro,Transferencia,0.05,34.20
+91,2026-02-20,Webcam,Accesorios,3,39,Oruro,Tarjeta,0,117.00
+92,2026-09-26,Disco SSD,Almacenamiento,2,78,El Alto,Efectivo,0,156.00
+93,2026-06-03,Audífonos,Accesorios,4,45,Santa Cruz,Tarjeta,0,180.00
+94,2026-03-25,Monitor,Tecnología,3,190,La Paz,Efectivo,0,570.00
+95,2026-05-14,Webcam,Accesorios,2,39,Oruro,Efectivo,0,78.00
+96,2026-08-06,Monitor,Tecnología,3,190,Cochabamba,QR,0,570.00
+97,2026-09-06,Audífonos,Accesorios,1,45,El Alto,Transferencia,0.1,40.50
+98,2026-05-28,Teclado,Accesorios,1,32,El Alto,Tarjeta,0,32.00
+99,2026-07-08,Silla,Muebles,3,125,Oruro,Tarjeta,0.05,356.25
+100,2026-04-06,Silla,Muebles,1,125,El Alto,Efectivo,0.15,106.25
+101,2026-05-26,Mouse,Accesorios,3,18,Santa Cruz,Transferencia,0,54.00
+102,2026-04-27,Teclado,Accesorios,1,32,El Alto,Transferencia,0,32.00
+103,2026-04-28,Disco SSD,Almacenamiento,3,78,El Alto,Efectivo,0.15,198.90
+104,2026-05-14,Audífonos,Accesorios,3,45,Oruro,Efectivo,0,135.00
+105,2026-08-12,Laptop,Tecnología,2,650,Santa Cruz,Efectivo,0,1300.00
+106,2026-06-08,Teclado,Accesorios,3,32,Cochabamba,Transferencia,0,96.00
+107,2026-07-26,Silla,Muebles,1,125,Cochabamba,QR,0.15,106.25
+108,2026-01-21,Mouse,Accesorios,2,18,La Paz,QR,0,36.00
+109,2026-07-22,Escritorio,Muebles,3,210,La Paz,Tarjeta,0,630.00
+110,2026-06-19,Mouse,Accesorios,4,18,El Alto,Efectivo,0.05,68.40
+111,2026-01-17,Monitor,Tecnología,5,190,El Alto,Transferencia,0.15,807.50
+112,2026-09-13,Mouse,Accesorios,3,18,Cochabamba,QR,0.05,51.30
+113,2026-07-16,Mouse,Accesorios,4,18,Santa Cruz,Tarjeta,0.15,61.20
+114,2026-08-07,Memoria USB,Almacenamiento,4,12,Cochabamba,QR,0,48.00
+115,2026-04-10,Silla,Muebles,3,125,La Paz,Tarjeta,0.15,318.75
+116,2026-06-23,Memoria USB,Almacenamiento,4,12,Oruro,QR,0.1,43.20
+117,2026-08-03,Disco SSD,Almacenamiento,1,78,Oruro,Efectivo,0,78.00
+118,2026-05-01,Mouse,Accesorios,5,18,El Alto,Efectivo,0,90.00
+119,2026-08-25,Monitor,Tecnología,4,190,Cochabamba,Tarjeta,0,760.00
+120,2026-01-25,Webcam,Accesorios,1,39,El Alto,QR,0,39.00
+121,2026-01-20,Monitor,Tecnología,3,190,Oruro,Efectivo,0.1,513.00
+122,2026-02-17,Teclado,Accesorios,4,32,Santa Cruz,Transferencia,0.1,115.20
+123,2026-08-22,Disco SSD,Almacenamiento,5,78,Oruro,Tarjeta,0,390.00
+124,2026-09-15,Memoria USB,Almacenamiento,2,12,La Paz,Efectivo,0,24.00
+125,2026-06-13,Audífonos,Accesorios,5,45,El Alto,Efectivo,0.1,202.50
+126,2026-01-01,Silla,Muebles,5,125,El Alto,Tarjeta,0,625.00
+127,2026-09-04,Monitor,Tecnología,4,190,La Paz,Transferencia,0.15,646.00
+128,2026-08-09,Audífonos,Accesorios,4,45,Santa Cruz,Tarjeta,0.1,162.00
+129,2026-04-18,Memoria USB,Almacenamiento,3,12,La Paz,Transferencia,0,36.00
+130,2026-02-18,Mouse,Accesorios,4,18,El Alto,QR,0,72.00
+131,2026-04-11,Monitor,Tecnología,1,190,La Paz,Efectivo,0.05,180.50
+132,2026-03-19,Escritorio,Muebles,2,210,Santa Cruz,Tarjeta,0,420.00
+133,2026-09-03,Webcam,Accesorios,5,39,Santa Cruz,QR,0,195.00
+134,2026-09-01,Teclado,Accesorios,3,32,Santa Cruz,Transferencia,0.15,81.60
+135,2026-03-08,Audífonos,Accesorios,4,45,El Alto,Efectivo,0.1,162.00
+136,2026-08-07,Disco SSD,Almacenamiento,3,78,Santa Cruz,Transferencia,0.05,222.30
+137,2026-07-13,Teclado,Accesorios,1,32,La Paz,Tarjeta,0,32.00
+138,2026-07-26,Webcam,Accesorios,4,39,El Alto,Efectivo,0,156.00
+139,2026-03-15,Laptop,Tecnología,2,650,La Paz,QR,0,1300.00
+140,2026-03-16,Escritorio,Muebles,2,210,Oruro,Transferencia,0.1,378.00
+141,2026-06-17,Memoria USB,Almacenamiento,5,12,Oruro,Transferencia,0.1,54.00
+142,2026-02-07,Escritorio,Muebles,4,210,Cochabamba,Transferencia,0,840.00
+143,2026-04-22,Disco SSD,Almacenamiento,5,78,La Paz,QR,0,390.00
+144,2026-06-04,Escritorio,Muebles,5,210,El Alto,QR,0.15,892.50
+145,2026-09-20,Monitor,Tecnología,5,190,La Paz,Transferencia,0,950.00
+146,2026-03-10,Silla,Muebles,3,125,Cochabamba,Efectivo,0,375.00
+147,2026-06-11,Mouse,Accesorios,4,18,Santa Cruz,Transferencia,0.05,68.40
+148,2026-07-31,Audífonos,Accesorios,5,45,La Paz,QR,0,225.00
+149,2026-03-31,Disco SSD,Almacenamiento,1,78,Santa Cruz,Transferencia,0.1,70.20
+150,2026-02-04,Laptop,Tecnología,2,650,Cochabamba,Tarjeta,0,1300.00
+151,2026-08-09,Monitor,Tecnología,5,190,El Alto,Tarjeta,0,950.00
+152,2026-03-29,Audífonos,Accesorios,2,45,Oruro,Tarjeta,0,90.00
+153,2026-05-13,Laptop,Tecnología,5,650,Oruro,Transferencia,0.1,2925.00
+154,2026-04-01,Disco SSD,Almacenamiento,4,78,La Paz,Efectivo,0.05,296.40
+155,2026-05-11,Laptop,Tecnología,1,650,Oruro,Tarjeta,0.05,617.50
+156,2026-08-20,Memoria USB,Almacenamiento,5,12,Santa Cruz,Efectivo,0,60.00
+157,2026-07-15,Teclado,Accesorios,3,32,Cochabamba,Tarjeta,0.15,81.60
+158,2026-05-31,Disco SSD,Almacenamiento,1,78,Oruro,Transferencia,0.05,74.10
+159,2026-02-17,Monitor,Tecnología,2,190,Oruro,Transferencia,0.1,342.00
+160,2026-09-15,Silla,Muebles,3,125,El Alto,Transferencia,0.05,356.25
+161,2026-04-22,Mouse,Accesorios,4,18,Oruro,Tarjeta,0,72.00
+162,2026-09-14,Disco SSD,Almacenamiento,5,78,Cochabamba,Efectivo,0.05,370.50
+163,2026-06-18,Mouse,Accesorios,2,18,Cochabamba,Tarjeta,0.05,34.20
+164,2026-07-04,Laptop,Tecnología,1,650,La Paz,Transferencia,0.1,585.00
+165,2026-09-25,Memoria USB,Almacenamiento,4,12,El Alto,Tarjeta,0.1,43.20
+166,2026-04-01,Silla,Muebles,2,125,La Paz,Tarjeta,0,250.00
+167,2026-01-03,Teclado,Accesorios,4,32,El Alto,QR,0.1,115.20
+168,2026-09-08,Audífonos,Accesorios,2,45,El Alto,QR,0,90.00
+169,2026-01-31,Teclado,Accesorios,4,32,La Paz,Transferencia,0.05,121.60
+170,2026-03-03,Laptop,Tecnología,3,650,El Alto,Efectivo,0.1,1755.00
+171,2026-07-03,Webcam,Accesorios,4,39,Cochabamba,Transferencia,0,156.00
+172,2026-05-21,Silla,Muebles,3,125,Oruro,QR,0.05,356.25
+173,2026-03-21,Disco SSD,Almacenamiento,5,78,Oruro,Tarjeta,0,390.00
+174,2026-06-09,Mouse,Accesorios,4,18,Cochabamba,QR,0.05,68.40
+175,2026-01-02,Silla,Muebles,3,125,Cochabamba,Efectivo,0.05,356.25
+176,2026-03-10,Laptop,Tecnología,2,650,Santa Cruz,Tarjeta,0.15,1105.00
+177,2026-07-01,Monitor,Tecnología,2,190,Oruro,QR,0,380.00
+178,2026-05-12,Mouse,Accesorios,5,18,Cochabamba,Transferencia,0.15,76.50
+179,2026-07-20,Audífonos,Accesorios,2,45,El Alto,Transferencia,0.15,76.50
+180,2026-06-20,Monitor,Tecnología,4,190,Oruro,Tarjeta,0.05,722.00
+181,2026-03-01,Monitor,Tecnología,3,190,El Alto,Efectivo,0.1,513.00
+182,2026-05-23,Teclado,Accesorios,1,32,La Paz,Transferencia,0.15,27.20
+183,2026-05-17,Laptop,Tecnología,5,650,Santa Cruz,Efectivo,0.05,3087.50
+184,2026-04-30,Escritorio,Muebles,4,210,Santa Cruz,QR,0.15,714.00
+185,2026-03-10,Audífonos,Accesorios,5,45,Cochabamba,Tarjeta,0,225.00
+186,2026-01-25,Webcam,Accesorios,3,39,Oruro,Transferencia,0.15,99.45
+187,2026-07-22,Audífonos,Accesorios,2,45,Santa Cruz,Efectivo,0,90.00
+188,2026-02-26,Silla,Muebles,5,125,La Paz,Efectivo,0.05,593.75
+189,2026-02-17,Escritorio,Muebles,3,210,La Paz,QR,0,630.00
+190,2026-04-24,Mouse,Accesorios,4,18,Santa Cruz,Tarjeta,0.1,64.80
+191,2026-09-03,Disco SSD,Almacenamiento,4,78,Oruro,Efectivo,0.05,296.40
+192,2026-04-13,Audífonos,Accesorios,5,45,Oruro,QR,0,225.00
+193,2026-06-19,Monitor,Tecnología,1,190,La Paz,Transferencia,0.15,161.50
+194,2026-05-02,Escritorio,Muebles,2,210,Cochabamba,Efectivo,0.15,357.00
+195,2026-09-12,Teclado,Accesorios,4,32,Cochabamba,Efectivo,0,128.00
+196,2026-04-04,Escritorio,Muebles,1,210,Cochabamba,Tarjeta,0.05,199.50
+197,2026-08-21,Mouse,Accesorios,2,18,Santa Cruz,Tarjeta,0,36.00
+198,2026-05-24,Mouse,Accesorios,2,18,Cochabamba,Transferencia,0,36.00
+199,2026-02-06,Disco SSD,Almacenamiento,5,78,El Alto,Transferencia,0.1,351.00
+200,2026-03-26,Teclado,Accesorios,3,32,Cochabamba,Tarjeta,0.05,91.20
